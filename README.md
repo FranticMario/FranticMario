@@ -43,15 +43,6 @@ Frontend-Entwickler mit Schwerpunkt auf React, TypeScript und modernen CSS-Frame
   </a>
 </div>
 
-<style>
-  @media (prefers-color-scheme: dark) {
-    a {
-      color: #fff !important;
-    }
-
-  }
-</style>
-
 ### Games
 
 <div style="display: flex; align-items: center; margin-top: 10px;">
@@ -67,11 +58,3 @@ Frontend-Entwickler mit Schwerpunkt auf React, TypeScript und modernen CSS-Frame
     <span>Nonogram</span>
   </a>
 </div>
-
-<style>
-  @media (prefers-color-scheme: dark) {
-    a {
-      color: #fff !important;
-    }
-  }
-</style>

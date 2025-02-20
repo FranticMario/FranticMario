@@ -43,6 +43,20 @@ Frontend-Entwickler mit Schwerpunkt auf React, TypeScript und modernen CSS-Frame
   </a>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <a href="https://silent-moon.netlify.app/" target="_blank" style="
+    display: flex; 
+    align-items: center; 
+    text-decoration: none; 
+    font-weight: bold; 
+    font-size: 18px;
+    color: blaue; 
+    transition: color 0.3s ease;
+  ">
+    <span>Silent Moon (React/TS/PostgreSQL/Auth/Supabase)</span>
+  </a>
+</div>
+
 ### Games
 
 <div style="display: flex; align-items: center; margin-top: 10px;">

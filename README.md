@@ -74,7 +74,7 @@ Frontend-Entwickler mit Schwerpunkt auf React, TypeScript und modernen CSS-Frame
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 10px;">
-  <a href="https://decision-making-picker.netlify.app/home
+  <a href="https://franticmario-decision-making-picker.netlify.app/home
   " target="_blank" style="
     display: flex; 
     align-items: center; 
